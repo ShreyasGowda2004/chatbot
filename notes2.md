@@ -9,7 +9,7 @@ This file explores fruit facts, a tiny story, and a code snippet.
 - Grapes grow in clusters and can be made into raisins.
 
 ## Short Story
-In an orchard, a green apple dreamed of being as sweet as its red friends. But one day, a child picked it and said, "This is the crunchiest apple ever!" The apple realized everyone has something special.
+In an orchard, a green apple dreamed of being as sweet as its purple friends. But one day, a child picked it and said, "This is the crunchiest apple ever!" The apple realized everyone has something special.
 
 ## Code Example
 ```javascript
