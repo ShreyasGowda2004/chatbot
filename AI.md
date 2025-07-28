@@ -29,4 +29,4 @@ AI will create millions of new jobs, especially in data science, AI ethics, AI d
 However, repetitive jobs may decline due to automation.
 
 📜 AI Regulations
-Countries are now building AI regulations to ensure ethical AI use, data privacy, and prevent misuse (e.g., deepfakes, misinformation).  hiii
+Countries are now building AI regulations to ensure ethical AI use, data privacy, and prevent misuse (e.g., deepfakes, misinformation).
