@@ -1,4 +1,4 @@
-Hii this shreyas woring at IBM and completed education in BMSIT,Bengaluru.
+name:shreyas gowda
 Age:21
 Gender:Male
 Contact:6361943681
